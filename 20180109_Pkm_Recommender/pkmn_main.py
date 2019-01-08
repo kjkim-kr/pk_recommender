@@ -5,5 +5,5 @@ Created on Jan 8, 2019
 '''
 
 if __name__ == '__main__':
-    print('hell world!')
+    print('hello world!')
     pass
